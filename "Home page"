@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Piattaforma dedicata alla promozione della cybersicurezza e dell'etica digitale. Scopri soluzioni e riflessioni per un mondo connesso più sicuro e consapevole." />
+  <meta name="keywords" content="cybersicurezza, etica digitale, sicurezza informatica, protezione dati, responsabilità tecnologica, cultura digitale" />
+  <meta name="author" content="Doriana" />
+  <title>Cybersicurezza ed Etica Digitale</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🌐 Cybersicurezza ed Etica Digitale</h1>
+    <p>Promuoviamo consapevolezza, sicurezza e responsabilità nel mondo digitale.</p>
+  </header>
+
+  <main>
+    <section id="introduzione">
+      <h2>Perché Cybersicurezza ed Etica Digitale?</h2>
+      <p>In un’epoca dominata dalla tecnologia, proteggere i dati e agire con responsabilità online è fondamentale. Questa piattaforma nasce per diffondere buone pratiche e riflessioni etiche nel mondo digitale.</p>
+    </section>
+
+    <section id="cybersicurezza">
+      <h2>🔐 Cos'è la Cybersicurezza?</h2>
+      <p>La cybersicurezza comprende strategie e strumenti per proteggere sistemi, reti e dati da minacce informatiche. È essenziale per garantire privacy, integrità e continuità operativa.</p>
+      <ul>
+        <li>Autenticazione a più fattori (MFA)</li>
+        <li>Backup regolari</li>
+        <li>Gestione sicura delle password</li>
+        <li>Monitoraggio delle vulnerabilità</li>
+      </ul>
+    </section>
+
+    <section id="etica-digitale">
+      <h2>⚖️ L’Etica Digitale</h2>
+      <p>L’etica digitale guida l’uso consapevole delle tecnologie, promuovendo equità, trasparenza e rispetto dei diritti digitali.</p>
+      <ol>
+        <li><strong>Etica dei dati:</strong> raccolta e trattamento responsabili</li>
+        <li><strong>Etica degli algoritmi:</strong> equità e accountability</li>
+        <li><strong>Etica delle persone:</strong> inclusione e pensiero critico</li>
+      </ol>
+    </section>
+
+    <section id="seo-sicurezza">
+      <h2>📈 SEO e Sicurezza: Un Connubio Strategico</h2>
+      <p>Un sito sicuro migliora la visibilità sui motori di ricerca, aumenta la fiducia degli utenti e protegge la reputazione online.</p>
+    </section>
+
+    <section id="conclusione">
+      <h2>🌱 Conclusione</h2>
+      <p>Investire in cybersicurezza e adottare un approccio etico al digitale è una scelta strategica e sociale. Esplora con noi soluzioni concrete per un futuro tecnologico più sicuro e consapevole.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Doriana | Progetto Etica & Cybersecurity</p>
+  </footer>
+</body>
+</html>
+
